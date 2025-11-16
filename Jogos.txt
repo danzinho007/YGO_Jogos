@@ -1,0 +1,32 @@
+YGO_Jogos
+
+1-MonsterCapsule
+2-Duel Monsters / DM 
+3-DM 2
+4-ForbiddenMemories
+5-MonsterCapsuleGB
+6-DarkDuelStories
+7-DM 4
+8-DungeonDiceMonsters
+9-TheEternalDuelistSoul
+10-TheDuelistOfTheRoses
+
+11-
+12-
+13-
+14-
+15-
+16-
+17-
+18-
+19-
+20-
+
+-WC 2005 = OK
+-GX Spirt Summoner = OK
+-WC 2007 = OK
+-Tag Force 2 = 
+-WC 2008 = OK
+-WC 2009 = OK
+-Tag Force 5 = Ok
+-WC 2011 = OK
